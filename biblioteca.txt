@@ -1,0 +1,3 @@
+#Importação da biblioteca necessária para a geração do gráfico
+  import matplotlib.pyplot as plt
+  
